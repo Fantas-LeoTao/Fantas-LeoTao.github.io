@@ -1,0 +1,25 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+# relative_permalinks: true
+
+# Setup
+title:               Fantas
+tagline:             'Simple is Better'
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Fantas-LeoTao
+  github:            https://github.com/Fantas-LeoTao
+  repo:              https://github.com/Fantas-LeoTao/Fantas-LeoTao.github.io
+  email:             leotao19930820@gmail.com
+
+# Custom vars
+version:             1.0.0
+
+# Gems
+gems:
+  - jekyll-paginate
